@@ -86,6 +86,7 @@ function adding_row() {
 
     row_adding.appendChild(btn);
     rows.appendChild(row_adding);
+    noOf.style.display = "none";
   });
 }
 
